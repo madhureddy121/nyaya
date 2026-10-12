@@ -1,0 +1,12 @@
+# Document ID: NCS-LC-AUD-004
+# Version: 1.3
+# Effective Date: 2026-08-01
+audit_id,date,area_audited,finding,severity,status
+AUD-2026-011,2026-06-10,Network Security,Firewall rules review was overdue by two quarters,High,Closed
+AUD-2026-014,2026-06-24,Change Management,Two emergency changes had no post-implementation review,Medium,Closed
+AUD-2026-016,2026-07-08,Data Protection,Consent records missing for 12 marketing contacts,Medium,Closed
+AUD-2026-018,2026-07-30,Vendor Management,NDA renewals overdue for 3 active suppliers,Medium,Open
+AUD-2026-020,2026-08-06,Business Continuity,DR test evidence not documented for Q1,Low,Closed
+AUD-2026-021,2026-08-12,Data Protection,Retention schedule not applied to legacy CRM exports,High,Open
+AUD-2026-023,2026-09-03,Access Control,Quarterly access review for the finance share was not completed,High,Open
+AUD-2026-025,2026-09-18,Training,Compliance training completion below the 90 percent threshold in the NOC team,Low,Open
